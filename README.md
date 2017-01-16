@@ -1,7 +1,7 @@
 # Tensorphone
 <content>
 
-The purpose of this project is to develop an android app that can recognize the sounds of teeth grinding. The model is pre-trained using a convolutional network with Tensorflow's python api, the code is provided in Bruxism_tensorboard.ipynb, the raw .wav files can be downloaded from the dropbox [link](https://www.dropbox.com/sh/e6x6emcvggx69nl/AADiigi8h_fbonUwJ9dy-Rc3a?dl=0). Each .wav file is labeled with 1 second segments of teethgrinding. In addition.
+The purpose of this project is to develop an android app that can recognize the sounds of teeth grinding during sleep. The model is pre-trained using a convolutional network with Tensorflow's python api, the code is provided in Bruxism_tensorboard.ipynb, the raw .wav files used for training can be downloaded from the dropbox [link](https://www.dropbox.com/sh/e6x6emcvggx69nl/AADiigi8h_fbonUwJ9dy-Rc3a?dl=0). Each .wav file is labeled with 1 second segments of teethgrinding. In addition, a .wav file of sound effects was labeled as non-bruxism sound. 
 ## Installation
 TODO: Describe the installation process
 ## Usage
